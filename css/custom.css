@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /*body { font-family: 'Lato', sans-serif; font-size:16px; background-color: #505050; }*/
-
+/*
 #topPanel { margin:0; position:relative; }
 
 .bannerContainer { padding:0; }
@@ -9,20 +9,23 @@
 #bottomPanel {
   margin:0;
 }
-
+*/
+/*
 .sidebarC { 
     background-color:#505050; 
     color: white;
     position:relative;
 }
-
+*/
+/*
 .bodyC {
     position:relative;
     padding:0;
     background-color:#f1f1f1;
     margin-right:-15px;
 }
-
+*/
+/*
 .sidebarC header { 
     position:relative;
     background-color: #690800;
@@ -35,7 +38,7 @@
     display:inline;
     padding-left:10px;
 }
-
+*/
 /*.yellowBoxNav {
     position:relative;
     display:inline-block;
@@ -56,14 +59,19 @@
 .yellowBoxNav span { position:relative; top: 8px; font-size:3rem; }
 
 .dropdown-menu { margin-top:25px; }
-.dropdown-menu-right { right:-15px; }*/
+.dropdown-menu-right { right:-15px; }
+*/
+/*
 .mainHead {
     height:110px;
     background-color: #ffffff;
-}*/
+}
+*/
+/*
 .mainC_nav { position:absolute; right:0; margin-right:30px; margin-top:35px; z-index:100; cursor:pointer;}
 .mainC_nav li { position:relative; margin-right:5px; }
 .mainC_nav span { font-size:3rem; color:#b7bbc2; }
+*/
 
 #mBubble { 
     position:absolute; 
@@ -263,10 +271,11 @@ footer { background-color: #333; color:white; }
 
 .listText { position:absolute; top:7px; left:60px; font-size:1.5rem; line-height:1.5rem; }
 .listText span { color:red;font-size:1.5rem; }
+/*
 .topPanel { width:100%; height:50px; background-color:#383838; position:relative; }
 .topPanel i { position:absolute; top:-20px; left:80%; font-size:3rem; color:#383838; }
 .topPanel p { padding:15px 0 0 20px;  }
-
+*/
 .discussionDrop { margin:10px 0; width:200px; padding-bottom:0; }
 
 #messageBadge {
