@@ -1,5 +1,5 @@
 /* Respond.js: min/max-width media query polyfill. (c) Scott Jehl. MIT Lic. j.mp/respondjs  */
-import classData from "./modules/classData.js";
+import classData from "./data/classData.js";
 import NavModule from "./modules/TheNavModule.js"
 
 (function( w ){
